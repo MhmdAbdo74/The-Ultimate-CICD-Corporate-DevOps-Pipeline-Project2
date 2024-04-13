@@ -28,9 +28,9 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
  sonarqube  , nexus , Rancher , promethus, grafana )
 
 ### 𝗣𝗵𝗮𝘀𝗲 𝟮: 𝗦𝗲𝘁𝘂𝗽 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗚𝗶𝘁 𝗥𝗲𝗽𝗼
--Established a secure private Git repository.
--Implemented token-based authentication for enhanced security.
--Successfully pushed the source code into the repository, ensuring version control.
+- Established a secure private Git repository.
+- Implemented token-based authentication for enhanced security.
+- Successfully pushed the source code into the repository, ensuring version control.
 
 ### 𝗣𝗵𝗮𝘀𝗲 𝟯: 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 & 𝗖𝗜𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 🔧
 - In this phase, we configured Jenkins with essential plugins to ensure smooth pipeline execution. The CI/CD pipeline was meticulously designed with various stages, including:-Source Code.
