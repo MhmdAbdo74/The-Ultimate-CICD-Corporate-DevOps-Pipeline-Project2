@@ -77,4 +77,6 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 
 
 
-- 
+- you can acess deployed website from NodePort service
+![website] (https://github.com/github/gh-copilot/assets/94086189/4291ff37-67e4-480d-a1c3-bf64caede3cd)
+
