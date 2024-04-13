@@ -52,3 +52,9 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 - Verification of Deployment: Verify successful deployment.
 - Deployment of Application Artifacts to Docker Hub Repository: Deploy application artifacts to Docker Hub repository.
 - Verification of Deployment: Verify successful deployment.
+
+### 𝗣𝗵𝗮𝘀𝗲 4: 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 🔍
+- Implemented comprehensive monitoring solutions including:
+-->System-level monitoring (CPU, RAM) using node_exporter
+-->Website monitoring using blackbox_exporter
+-->Leveraged Prometheus & Grafana for effective visualization and analysis.
