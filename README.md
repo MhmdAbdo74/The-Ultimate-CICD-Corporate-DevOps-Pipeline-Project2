@@ -83,3 +83,6 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 - grafana dashboard to monitor the deployed website
 ![dashboard](https://github.com/github/gh-copilot/assets/94086189/cbad2ff7-843e-49e0-90bf-972cc6336bbb)
 
+
+- grafana dashboard to monitor Jenkins Server
+![dashboard](https://github.com/github/gh-copilot/assets/94086189/e014c240-863e-4b64-9d1e-b5ea4300a319)
