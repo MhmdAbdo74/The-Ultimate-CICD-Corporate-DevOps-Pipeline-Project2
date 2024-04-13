@@ -32,7 +32,7 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 -Implemented token-based authentication for enhanced security.
 -Successfully pushed the source code into the repository, ensuring version control.
 
-### 🔧 𝗣𝗵𝗮𝘀𝗲 𝟯: 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 & 𝗖𝗜𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲
+### 𝗣𝗵𝗮𝘀𝗲 𝟯: 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗲 𝗝𝗲𝗻𝗸𝗶𝗻𝘀 & 𝗖𝗜𝗖𝗗 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 🔧
 - In this phase, we configured Jenkins with essential plugins to ensure smooth pipeline execution. The CI/CD pipeline was meticulously designed with various stages, including:-Source Code.
 - Definition: Define source code from the repository.
 - Compilation: Compile the source code.
