@@ -58,3 +58,17 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 -->System-level monitoring (CPU, RAM) using node_exporter
 -->Website monitoring using blackbox_exporter
 -->Leveraged Prometheus & Grafana for effective visualization and analysis.
+
+### Result 
+- RKE Cluster consist of 1 Master and 2 Worker
+![RKE] (https://github.com/github/gh-copilot/assets/94086189/9f228bf2-ba78-45e7-be6b-35b2378bc08d)
+
+- Jenkins is configured with all the necessary plugins to ensure smooth pipeline execution.
+![Jenkins] (https://github.com/github/gh-copilot/assets/94086189/be8c6be8-a402-4460-97a2-862b316590b1)
+
+- SonarQube is configured with all the necessary plugins to ensure smooth code quality analysis.
+![Sonarqube] (https://github.com/github/gh-copilot/assets/94086189/a1650127-7b6f-4820-a654-6c4e69c7e862)
+
+
+
+- 
