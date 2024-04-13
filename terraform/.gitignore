@@ -24,4 +24,4 @@
 
 # Ignore CLI configuration file in all modules
 **/terraform.rc
-modules/key/id_rsa.pub
+/modules/key/id_rsa.pub
