@@ -69,18 +69,34 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 
 ![Sonarqube](https://github.com/github/gh-copilot/assets/94086189/a1650127-7b6f-4820-a654-6c4e69c7e862)
 
--  sending  mail  alerts on failure or sucess in any stage of pipline  with trivy  image report file
+- Artifact    are    published    in    nexus    repository
+
+
+![Nexus]((https://github.com/MhmdAbdo74/The-Ultimate-CICD-Corporate-DevOps-Pipeline-Project2/assets/94086189/d48ba094-c490-403e-bf81-6388b154bcf2))
+
+- Docker images are pushed to Docker Hub repository
+
+![DockerHub](https://github.com/MhmdAbdo74/The-Ultimate-CICD-Corporate-DevOps-Pipeline-Project2/assets/94086189/9ae6c194-990f-4b38-8a61-2fe58bcde6aa)
+
+-  sending  mail  alerts on failure or sucess in any stage of pipline  with trivy  image report file.
 
 ![mail](https://github.com/github/gh-copilot/assets/94086189/60f2b5e7-ecb9-4772-b358-fae6f894de3a)
 
 
 
 - you can acess deployed website from NodePort service
+
 ![website](https://github.com/github/gh-copilot/assets/94086189/4291ff37-67e4-480d-a1c3-bf64caede3cd)
 
+- promethus  targets  are configured  to colllect metrics from jenkins , deployed website
+
+![promethus](https://github.com/MhmdAbdo74/The-Ultimate-CICD-Corporate-DevOps-Pipeline-Project2/assets/94086189/b4e48068-c41a-4c57-af42-db6b6518ad0f)
+
 - grafana dashboard to monitor the deployed website
+
 ![dashboard](https://github.com/github/gh-copilot/assets/94086189/cbad2ff7-843e-49e0-90bf-972cc6336bbb)
 
 
 - grafana dashboard to monitor Jenkins Server
+
 ![dashboard](https://github.com/github/gh-copilot/assets/94086189/e014c240-863e-4b64-9d1e-b5ea4300a319)
