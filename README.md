@@ -72,7 +72,7 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 - Artifact    are    published    in    nexus    repository
 
 
-![Nexus]((https://github.com/MhmdAbdo74/The-Ultimate-CICD-Corporate-DevOps-Pipeline-Project2/assets/94086189/d48ba094-c490-403e-bf81-6388b154bcf2))
+![Nexus](https://github.com/MhmdAbdo74/The-Ultimate-CICD-Corporate-DevOps-Pipeline-Project2/assets/94086189/d48ba094-c490-403e-bf81-6388b154bcf2)
 
 - Docker images are pushed to Docker Hub repository
 
