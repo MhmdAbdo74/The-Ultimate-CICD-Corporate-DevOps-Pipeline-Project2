@@ -18,6 +18,8 @@ Corporate DevOps Pipeline: Orchestrating seamless CI/CD with Jenkins, Kubernetes
 - promethus
 - Grafana
 - mail
+-  Kube Audit
+
 
 
 ### Steps
